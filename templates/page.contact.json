@@ -1,0 +1,38 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page--contact",
+      "settings": {}
+    },
+    "474bebdb-a8f7-4f55-81f4-b2816bbd97cd": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16700306751703__474bebdb-a8f7-4f55-81f4-b2816bbd97cd-167395028127300d85-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading_title": "Rich text"
+          }
+        },
+        "template--16700306751703__474bebdb-a8f7-4f55-81f4-b2816bbd97cd-167395028127300d85-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>THIS SITE IS PROTECTED BY RECAPTCHA AND THE GOOGLE <a href=\"https:\/\/policies.google.com\/privacy\" target=\"_blank\" title=\"https:\/\/policies.google.com\/privacy\">PRIVACY POLICY<\/a> AND <a href=\"https:\/\/policies.google.com\/terms\" target=\"_blank\" title=\"https:\/\/policies.google.com\/terms\">TERMS OF SERVICE<\/a> APPLY.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16700306751703__474bebdb-a8f7-4f55-81f4-b2816bbd97cd-167395028127300d85-0",
+        "template--16700306751703__474bebdb-a8f7-4f55-81f4-b2816bbd97cd-167395028127300d85-1"
+      ],
+      "settings": {
+        "alignment": "center",
+        "max_width": 31
+      }
+    }
+  },
+  "order": [
+    "main",
+    "474bebdb-a8f7-4f55-81f4-b2816bbd97cd"
+  ]
+}

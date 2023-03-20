@@ -1,0 +1,101 @@
+{
+  "sections": {
+    "3b240b29-e006-4298-bd5c-76b20e594f77": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16700306686167__3b240b29-e006-4298-bd5c-76b20e594f77-167394407447b30e70-0": {
+          "type": "heading",
+          "settings": {
+            "heading_title": "TEES"
+          }
+        },
+        "template--16700306686167__3b240b29-e006-4298-bd5c-76b20e594f77-167394407447b30e70-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Use these sections to promote a particular feature with editorial photography.<\/p>"
+          }
+        },
+        "template--16700306686167__3b240b29-e006-4298-bd5c-76b20e594f77-167394407447b30e70-2": {
+          "type": "button",
+          "settings": {
+            "link": "#",
+            "link_text": "VIEW COLLECTION"
+          }
+        }
+      },
+      "block_order": [
+        "template--16700306686167__3b240b29-e006-4298-bd5c-76b20e594f77-167394407447b30e70-0",
+        "template--16700306686167__3b240b29-e006-4298-bd5c-76b20e594f77-167394407447b30e70-1",
+        "template--16700306686167__3b240b29-e006-4298-bd5c-76b20e594f77-167394407447b30e70-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/img_tee.jpg",
+        "video_url": "",
+        "image_width": "standard",
+        "image_position": "right",
+        "max_width_text": 34,
+        "enable_contrast": true,
+        "enable_full_width": false
+      }
+    },
+    "main": {
+      "type": "main-list-collections",
+      "disabled": true,
+      "blocks": {
+        "6737e028-0e4d-4b75-9e2d-141374c7e920": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "6737e028-0e4d-4b75-9e2d-141374c7e920"
+      ],
+      "settings": {
+        "display_type": "all",
+        "per_row": 3,
+        "aspect_ratio": "natural"
+      }
+    },
+    "b25e86fd-6dc9-4341-bc68-671c0f39d3ad": {
+      "type": "collection-list",
+      "blocks": {
+        "template--16700306686167__b25e86fd-6dc9-4341-bc68-671c0f39d3ad-16739440726c1f3dd5-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "frontpage"
+          }
+        },
+        "template--16700306686167__b25e86fd-6dc9-4341-bc68-671c0f39d3ad-16739440726c1f3dd5-1": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "template--16700306686167__b25e86fd-6dc9-4341-bc68-671c0f39d3ad-16739440726c1f3dd5-2": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16700306686167__b25e86fd-6dc9-4341-bc68-671c0f39d3ad-16739440726c1f3dd5-0",
+        "template--16700306686167__b25e86fd-6dc9-4341-bc68-671c0f39d3ad-16739440726c1f3dd5-1",
+        "template--16700306686167__b25e86fd-6dc9-4341-bc68-671c0f39d3ad-16739440726c1f3dd5-2"
+      ],
+      "settings": {
+        "title": "",
+        "per_row": 3,
+        "aspect_ratio": "natural"
+      }
+    }
+  },
+  "order": [
+    "3b240b29-e006-4298-bd5c-76b20e594f77",
+    "main",
+    "b25e86fd-6dc9-4341-bc68-671c0f39d3ad"
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "vendor": {
+          "type": "vendor",
+          "settings": {}
+        },
+        "description": {
+          "type": "description",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_popup_option": "Size",
+            "variant_popup_text": "Size Chart",
+            "variant_popup_page": "size-guide",
+            "variant_popup_show_title": true
+          }
+        },
+        "80bbca9e-0c93-4e10-81f3-01263af4bfab": {
+          "type": "divider",
+          "settings": {}
+        },
+        "5ecf4329-64e3-4286-9f00-6bd6ce2f2e61": {
+          "type": "spacer",
+          "settings": {
+            "size": 20
+          }
+        },
+        "494fb5cf-091e-4797-947d-3f2bbe0804f1": {
+          "type": "inventory_counter",
+          "settings": {
+            "inventory_max": "100",
+            "low_inventory_threshold": "40"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "0b61512f-7e10-4e3c-ad67-5133aebbd65d": {
+          "type": "accordion",
+          "disabled": true,
+          "settings": {
+            "style": "closed",
+            "heading": "Materials",
+            "content": "<p>SIZES FITS FOR UNISEX<br\/>100% COTTON{{ shop.brand.short_description }}<\/p>"
+          }
+        },
+        "divider": {
+          "type": "divider",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "title",
+        "vendor",
+        "description",
+        "price",
+        "variant_picker",
+        "80bbca9e-0c93-4e10-81f3-01263af4bfab",
+        "5ecf4329-64e3-4286-9f00-6bd6ce2f2e61",
+        "494fb5cf-091e-4797-947d-3f2bbe0804f1",
+        "quantity_selector",
+        "buy_buttons",
+        "0b61512f-7e10-4e3c-ad67-5133aebbd65d",
+        "divider"
+      ],
+      "settings": {
+        "enable_sticky_sidebar": true,
+        "enable_full_width": true,
+        "media_layout": "column",
+        "enable_video_looping": false
+      }
+    },
+    "recommendations": {
+      "type": "recommended-products",
+      "settings": {
+        "heading": "Recommended",
+        "per_row": 3,
+        "rows": 1,
+        "aspect_ratio": "natural"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "recommendations"
+  ]
+}

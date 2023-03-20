@@ -1,0 +1,85 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "a4755c8e-e780-4efc-8ea7-a6e36bb77724": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16700306784471__a4755c8e-e780-4efc-8ea7-a6e36bb77724-1673945650469937c8-0": {
+          "type": "heading",
+          "settings": {
+            "heading_title": "TEES"
+          }
+        },
+        "template--16700306784471__a4755c8e-e780-4efc-8ea7-a6e36bb77724-1673945650469937c8-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Use these sections to promote a particular feature with editorial photography.<\/p>"
+          }
+        },
+        "template--16700306784471__a4755c8e-e780-4efc-8ea7-a6e36bb77724-1673945650469937c8-2": {
+          "type": "button",
+          "settings": {
+            "link": "#",
+            "link_text": "VIEW COLLECTION"
+          }
+        }
+      },
+      "block_order": [
+        "template--16700306784471__a4755c8e-e780-4efc-8ea7-a6e36bb77724-1673945650469937c8-0",
+        "template--16700306784471__a4755c8e-e780-4efc-8ea7-a6e36bb77724-1673945650469937c8-1",
+        "template--16700306784471__a4755c8e-e780-4efc-8ea7-a6e36bb77724-1673945650469937c8-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/img_tee.jpg",
+        "video_url": "",
+        "image_width": "standard",
+        "image_position": "right",
+        "max_width_text": 34,
+        "enable_contrast": true,
+        "enable_full_width": false
+      }
+    },
+    "660764e5-2a84-4464-bf27-32b0f19f2b2f": {
+      "type": "collection-list",
+      "blocks": {
+        "template--16700306784471__660764e5-2a84-4464-bf27-32b0f19f2b2f-1673945647ff1b9f51-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "frontpage"
+          }
+        },
+        "template--16700306784471__660764e5-2a84-4464-bf27-32b0f19f2b2f-1673945647ff1b9f51-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "hi"
+          }
+        },
+        "template--16700306784471__660764e5-2a84-4464-bf27-32b0f19f2b2f-1673945647ff1b9f51-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "ctd-0005-boxy-cut-tee"
+          }
+        }
+      },
+      "block_order": [
+        "template--16700306784471__660764e5-2a84-4464-bf27-32b0f19f2b2f-1673945647ff1b9f51-0",
+        "template--16700306784471__660764e5-2a84-4464-bf27-32b0f19f2b2f-1673945647ff1b9f51-1",
+        "template--16700306784471__660764e5-2a84-4464-bf27-32b0f19f2b2f-1673945647ff1b9f51-2"
+      ],
+      "settings": {
+        "title": "",
+        "per_row": 3,
+        "aspect_ratio": "natural"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "a4755c8e-e780-4efc-8ea7-a6e36bb77724",
+    "660764e5-2a84-4464-bf27-32b0f19f2b2f"
+  ]
+}

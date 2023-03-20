@@ -1,0 +1,78 @@
+{
+  "sections": {
+    "intro": {
+      "type": "main-collection-intro",
+      "settings": {
+        "collection_header_style": "full",
+        "image_position": "center center",
+        "enable_full_width": true,
+        "show_collection_description": true,
+        "max_width_text": 34,
+        "opacity_overlay": 60,
+        "color_overlay": "#000000",
+        "color_heading": "#ffffff",
+        "color_subheading": "#b8b8b8"
+      }
+    },
+    "main": {
+      "type": "main-collection-grid",
+      "settings": {
+        "show_filter": true,
+        "show_sort": true,
+        "per_row": 3,
+        "per_page": 12,
+        "pagination": "paginated",
+        "aspect_ratio": "square"
+      }
+    },
+    "featured": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "",
+        "title": "Featured collection",
+        "per_row": 3,
+        "rows": 1,
+        "aspect_ratio": "natural"
+      }
+    },
+    "6cebe4a6-c5f8-49db-833b-f80485eb0976": {
+      "type": "collection-list",
+      "blocks": {
+        "template--16700306620631__6cebe4a6-c5f8-49db-833b-f80485eb0976-16739474541a0041b2-0": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "template--16700306620631__6cebe4a6-c5f8-49db-833b-f80485eb0976-16739474541a0041b2-1": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "template--16700306620631__6cebe4a6-c5f8-49db-833b-f80485eb0976-16739474541a0041b2-2": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16700306620631__6cebe4a6-c5f8-49db-833b-f80485eb0976-16739474541a0041b2-0",
+        "template--16700306620631__6cebe4a6-c5f8-49db-833b-f80485eb0976-16739474541a0041b2-1",
+        "template--16700306620631__6cebe4a6-c5f8-49db-833b-f80485eb0976-16739474541a0041b2-2"
+      ],
+      "settings": {
+        "title": "Collection list",
+        "per_row": 3,
+        "aspect_ratio": "natural"
+      }
+    }
+  },
+  "order": [
+    "intro",
+    "main",
+    "featured",
+    "6cebe4a6-c5f8-49db-833b-f80485eb0976"
+  ]
+}
